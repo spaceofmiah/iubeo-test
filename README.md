@@ -1,7 +1,7 @@
 # iubeo-test
 Friendlier way to write your config.
 
-This repo is just to replicate issues encountered when using `iubeo` library ([track issue](https://github.com/isik-kaplan/iubeo/issues/3))
+This repo is just to replicate issues encountered when using `iubeo` library ([track resolved issue](https://github.com/isik-kaplan/iubeo/issues/3))
 
 Traceback
 ---
